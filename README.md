@@ -1,4 +1,7 @@
-# README
+# Proyecto Guia
+Este proyecto fue realizado como una guía para comenzar con Ruby on Rails, tomando como referencia la documentación oficial en [Ruby on Rails Guides](https://guides.rubyonrails.org/getting_started.html).
+
+# README 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
